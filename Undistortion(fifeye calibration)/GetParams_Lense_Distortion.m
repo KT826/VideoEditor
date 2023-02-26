@@ -1,6 +1,6 @@
 %{ 
 <Calibraion of lens Distortion (fisheye calibration)>
-My equipments... 
+Equipments here: 
 Lens: VS-0814H1-SWIR
 Camera: acA2040-90umNIR
 
